@@ -56,7 +56,9 @@ background-color: mediumaquamarine;
 }
 
 #logo li{
-  float: left;
+  display: table-cell;
+  vertical-align: middle:
+  padding: 0 10px;
   list-style-type: none;
 }
 
