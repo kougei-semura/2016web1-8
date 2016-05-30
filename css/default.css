@@ -16,3 +16,19 @@ background-color: mediumaquamarine;
 .breadcrumbs li:first-child:before{
   content: "";
 }
+
+#gnav ul {
+  overflow: hidden;
+}
+
+#gnav li {
+  float: left;
+  width: 156px;
+  border-right: white 1px solid;
+  list-style-type: none;
+}
+
+#gnav li:first-child {
+  border-ledt: white 1px solid;
+}
+}
