@@ -67,11 +67,11 @@ background-color: mediumaquamarine;
   vertical-align: middle;
   padding: 10px 5px;
 }
-div.img#home{     background-position: -5  0px;}
-div.img#content1 {background-position: -5 -36px;}
-div.img#content2 {background-position: -5 -72px;}
-div.img#help {    background-position: -5 -108px;}
-div.img#faq {     background-position: -5 -138px;}
+div.img#home{     background-position: 0  0px;}
+div.img#content1 {background-position: 0 -36px;}
+div.img#content2 {background-position: 0 -72px;}
+div.img#help {    background-position: 0 -108px;}
+div.img#faq {     background-position: 0 -138px;}
 
 #logo ul{
   overflow: hidden;
