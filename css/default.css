@@ -50,4 +50,19 @@ background-color: mediumaquamarine;
 #gnav li:first-child {
   border-ledt: white 1px solid;
 }
+
+#logo ul{
+  overflow: hidden;
+}
+
+#logo li{
+  float: left;
+  list-style-type: none;
+}
+
+#logo img{
+  width: 100px;
+}
+}
+}
 }
